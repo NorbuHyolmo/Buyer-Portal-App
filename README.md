@@ -4,8 +4,8 @@
 This is a small buyer portal demo app made with the combination of Django (backend) and React (frontend)
 
 ## Features 
-- User login and register with (email and password) JWT Authentication using Djangorestframework simplejwt
-- Token stored in the frontend (localStorage) sent with requests requiring authentication
+- JWT Authentication using djangorestframework-simplejwt (tokens stored in localStorage)
+- Email based login 
 - Dashboard with collection of Property and allows adding to favourites
 
 ## Running the Project
