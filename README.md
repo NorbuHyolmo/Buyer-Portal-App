@@ -33,7 +33,7 @@ npm start
 - Backend: http://localhost:8000
 - Frontend: http://localhost:3000 (redirects to login if no user is logged in )
 
------ open the frontend url --------
+----- recommended to accesss the frontend url as backend shows the api calls --------
 
 ### if database is empty, you can populate sample data
 cd backend 
