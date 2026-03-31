@@ -9,6 +9,9 @@ This is a small buyer portal demo app made with the combination of Django (backe
 - Dashboard with collection of Property and allows adding to favourites
 
 ## Running the Project
+1. Clone the repository
+   git clone git@github.com:NorbuHyolmo/Buyer-Portal-App.git
+
 Using Docker (Recommended)
 docker compose build 
 docker compose up 
@@ -29,6 +32,8 @@ npm start
 
 - Backend: http://localhost:8000
 - Frontend: http://localhost:3000 (redirects to login if no user is logged in )
+
+----- open the frontend url --------
 
 ### if database is empty, you can populate sample data
 cd backend 
